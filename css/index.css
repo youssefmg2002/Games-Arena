@@ -379,13 +379,13 @@ div img {
 }
 .latest-game-top {
   position: absolute;
-  top: -40px;
+  top: -80px;
   left: 16px;
   transition: top 0.3s;
 }
 .latest-game-bottom {
   position: absolute;
-  bottom: -40px;
+  bottom: -80px;
   left: 16px;
   transition: bottom 0.3s;
 }
